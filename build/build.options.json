@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..",
+  "builtInLibrariesFolders": "/Applications/Arduino.app/Contents/Java/libraries",
+  "builtInToolsFolders": "/Applications/Arduino.app/Contents/Java/tools-builder,/Applications/Arduino.app/Contents/Java/hardware/tools/avr,/Users/shin/Library/Arduino15/packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=/Users/shin/Documents/Arduino/esp32_logger/build,build.warn_data_percentage=75,runtime.tools.xtensa-esp32-elf-gcc.path=/Users/shin/Library/Arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0,runtime.tools.xtensa-esp32-elf-gcc-1.22.0-97-gc752ad5-5.2.0.path=/Users/shin/Library/Arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0,runtime.tools.mkspiffs.path=/Users/shin/Library/Arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.mkspiffs-0.2.3.path=/Users/shin/Library/Arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.esptool_py.path=/Users/shin/Library/Arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.esptool_py-3.0.0.path=/Users/shin/Library/Arduino15/packages/esp32/tools/esptool_py/3.0.0",
+  "fqbn": "esp32:esp32:esp32:PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=115200,DebugLevel=none",
+  "hardwareFolders": "/Applications/Arduino.app/Contents/Java/hardware,/Users/shin/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/shin/Documents/Arduino/libraries",
+  "runtime.ide.version": "10819",
+  "sketchLocation": "/Users/shin/Documents/Arduino/esp32_logger/esp32_logger.ino"
+}
